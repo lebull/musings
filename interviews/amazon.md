@@ -2,10 +2,14 @@
 
 ## General Questions to expect
 
+### From the recruiter
+
 * Data, data, data. Amazon is a data-driven company, so please be prepared to explain how you personally have utilized data, found new resources to harvest data and anything in between in order to drive to your results.
     * Something to keep in mind. The use of “I” versus “we” as you speak to your interviewer – it’s good to acknowledge the work of your team, but this is your time to brag and shine about your individual contributions, so do not hold back on your accomplishments.
 * I cannot emphasize enough, that your interviewer will ask you open-ended questions to see what follow up questions you ask in return. When you’re asked a broad question, ensure you ask clarifying questions to understand requirements and then begin to solve last after you’ve communicated clearly your path to solve. Also, consider/ask about edge cases before they’re brought to your attention. 
 
+
+### Tell me about yourself
 ### Why Amazon?
 
 ## Generic Post-Interview Questions
@@ -57,6 +61,15 @@ PrePost model for SAPUI5
     seek diverse perspectives and work to disconfirm
     their beliefs.  
 
+
+|       |       |
+| ----- | ----- |
+| Situation | SAPUI5 frontend "Security" |
+| Task | x |
+| Action | x |
+| Result | x |
+
+
 |       |       |
 | ----- | ----- |
 | Situation | Waerhauser acquisition almost-mishap |
@@ -71,6 +84,12 @@ PrePost model for SAPUI5
 | Action | x |
 | Result | x |
 
+|       |       |
+| ----- | ----- |
+| Situation | Lack of KISS for podcasts |
+| Task | x |
+| Action | x |
+| Result | x |
 
 ## Learn and Be Curious
 
@@ -95,7 +114,19 @@ Big on develop.  Especially when so many FEDs don't know es6
 
     Leaders have relentlessly high standards – many people may think these standards are unreasonably high. Leaders are continually raising the bar and driving their teams to deliver high quality products, services and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
 
-Use UI Guidelines
+### Thoughts on the topic
+
+This is crucial in frontend development.  Falling short of standards directly impacts users. This is especially if the app is external.  However, even internal applications 
+
+### STAR Examples
+
+|       |       |
+| ----- | ----- |
+| Situation | Poor user experience for pestweb.com.  Boss wasn't interested in fixing them because we were due to scrap the site within 12-18 months. |
+| Task | x |
+| Action | Started up a pipeline of improvements to  |
+| Result | x |
+
 
 ## Think Big
 
@@ -124,13 +155,18 @@ This is super important in UI things
 
 ## Earn Trust
 
-    Earn Trust Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best.
-
-Be honest
+    Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best.
 
 ## Dive Deep
 
-    Dive Deep Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
+    Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
+
+    |       |       |
+    | ----- | ----- |
+    | Situation | IP Launchpad App |
+    | Task | Recustomize on every update |
+    | Action | Decided to automate this process |
+    | Result | Went from a custom script to discovering task managers like grunt/gulp.  Snowballed into being able to easilly add other important steps like building and publishing |
 
 Casper
 LADI
@@ -146,5 +182,11 @@ Gai Church Music
 
     Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 
-    Distance Rewrite
-    Waerhouser Aquisition Overnight
+|       |       |
+| ----- | ----- |
+| Situation | A distance.msstate.edu redesign was halted due to the fulltime web developer leaving the position. |
+| Task | After a couple of months where it was clear it may take a while to find a replacement, I was asked if I could carry on the project |
+| Action | Owned it |
+| Result | Wrecked it and personally deployed the changes to the site in spring of 2013. |
+
+Waerhouser Aquisition Overnight
