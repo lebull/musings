@@ -1,18 +1,31 @@
+# Other Questions from Dan Croitor
+
+## Tell me about yourself: https://www.youtube.com/watch?v=vMQOg9C2R08
+
+* What are my strengths
+    * Frontend Developer that cares deeply about UX
+* How well do I communicate
+* Highlights.  Keep it quick
+* Keep it less than 90 seconds
+* Numbers for experience
+* Goal Driven
+
 # Leadership Questions from Dan Croitor
 
 ## Team / time management (positive & negative) https://youtu.be/CQG4Ui0oAmk 
 
 ### 1. Tell me about a time when you were not able to meet a time commitment. What prevented you from meeting it? What was the outcome and what did you learn from it?
 
-NYI
+Podcasts I think
+CPB Sale?
 
 ### 2. Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?
 
-NYI
+Distance Internal Applications
 
 ### 3. Give me an example of a time when you set a goal and were able to meet or achieve it
 
-NYI / Marathon?
+PrePost, Marathon
 
 ---
 
@@ -26,15 +39,38 @@ CPB Sale?
 
 ### 5. an example when you had to push back to HQ or challenged a decision
 
-Podcasts MVC Disagreement
+Podcast Page
+
+|       |       |
+| ----- | ----- |
+| Situation | Creating the podcasts page for pestweb.com |
+| Task | I implemented the code to determine what podcast link was the one to embed.  On review, my coworker and I had disagreements on whether this should be done in the model or the controller |
+| Action | After approaching my manager to ask about the best way to approach this, we had a team meeting where we could deliberate on what the correct approach is. |
+| Result | An approach that was different than either of us had discussed was suggested.  It satisfied both of our positions of how this should look. |
 
 ### 6. Tell me about the toughest decision you've had to make in the past six months
 
+`I think this is not a good answer`
+
 Moving to Austin
+
+|       |       |
+| ----- | ----- |
+| Situation | x |
+| Task | x |
+| Action | x |
+| Result | x |
 
 ### 7. Tell me about a decision that you regret.
 
 Not using a framework for Distance internal applications
+
+|       |       |
+| ----- | ----- |
+| Situation | x |
+| Task | x |
+| Action | x |
+| Result | x |
 
 ---
 
@@ -42,11 +78,22 @@ Not using a framework for Distance internal applications
 
 ### 8. What did you do when you needed to motivate a group of individuals?
 
-NYI
+Univar ES
+International Paper
+
+Distance
+Band
 
 ### 9. Tell me about a time you stepped up into a leadership role
 
-Distance rewriiiite!
+distance.msstate.edu
+
+|       |       |
+| ----- | ----- |
+| Situation | A distance.msstate.edu redesign was halted due to the fulltime web developer leaving the position. |
+| Task | After a couple of months where it was clear it may take a while to find a replacement, I was asked if I could carry on the project |
+| Action | Owned it |
+| Result | Wrecked it and personally deployed the changes to the site in spring of 2013. |
 
 ---
 
@@ -75,6 +122,9 @@ Darrell and iOS training
 Tracey's app demo after my failure
 
 ### 14. The last time you had to apologize to someone
+
+Jon?
+
 
 ---
 
@@ -132,10 +182,11 @@ NYI, Opportunities/Leads user behaviors by session
 ### 23. a time when you were 75% through a project, & you had to pivot strategy
 
 Probably somewhere in sapui5 applications with products
+Sridevi
 
 ### 24. Tell me about a time when you had to choose between technologies for a project
 
-Casper
+Casper (End on a positive note)
 
 ### 25. Tell me about a time you had to deal with ambiguity
 
@@ -146,22 +197,24 @@ Starting at Univar with lack of documentation
 
 ## Innovation https://youtu.be/774ovkE2y5I
 
-NYI
-
 ### 26. What’s the most innovative new idea that you have implemented?
 ### Ownership principle https://youtu.be/Rn3EjvukTkI
 
-NYI
+PrePost
+LADI
+Garage door (not professional)
 
 ### 27. Describe a time when you sacrificed short term goals for long term success
 
 Auto-customization of ip launchpad application
 
 ### 28. Provide an example of when you personally demonstrate ownership.
+(I had ownership, but how did I use it)
+
+Distance Rewrite
+iOS Application
+
 ### Strength / weakness https://youtu.be/q8fK73QjmbA
-
-NYI
-
 ### 29. What's your greatest strength
 
 Being able to be on the same team with people who aren't "On the same frequency"
@@ -176,7 +229,7 @@ Starting work
 
 ### 31. We all deal with difficult customers from time to time. Tell me about a challenging client-facing situation and how you handled it.
 
-NYI
+Sridevi
 
 ### 32. How do you show customer obsession?
 
@@ -193,7 +246,7 @@ Gai Music
 
 ### 34. Tell me about a time you failed and what you learned from it
 
-Casper
+Casper (End on a positive note)
 
 ---
 

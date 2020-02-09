@@ -8,10 +8,6 @@
     * Something to keep in mind. The use of “I” versus “we” as you speak to your interviewer – it’s good to acknowledge the work of your team, but this is your time to brag and shine about your individual contributions, so do not hold back on your accomplishments.
 * I cannot emphasize enough, that your interviewer will ask you open-ended questions to see what follow up questions you ask in return. When you’re asked a broad question, ensure you ask clarifying questions to understand requirements and then begin to solve last after you’ve communicated clearly your path to solve. Also, consider/ask about edge cases before they’re brought to your attention. 
 
-
-### Tell me about yourself
-### Why Amazon?
-
 ## Generic Post-Interview Questions
 
 # Amazon Leadership Principles Examples
@@ -161,12 +157,12 @@ This is super important in UI things
 
     Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
 
-    |       |       |
-    | ----- | ----- |
-    | Situation | IP Launchpad App |
-    | Task | Recustomize on every update |
-    | Action | Decided to automate this process |
-    | Result | Went from a custom script to discovering task managers like grunt/gulp.  Snowballed into being able to easilly add other important steps like building and publishing |
+|       |       |
+| ----- | ----- |
+| Situation | IP Launchpad App |
+| Task | Recustomize on every update |
+| Action | Decided to automate this process |
+| Result | Went from a custom script to discovering task managers like grunt/gulp.  Snowballed into being able to easilly add other important steps like building and publishing |
 
 Casper
 LADI
