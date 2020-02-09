@@ -13,7 +13,6 @@ https://www.youtube.com/watch?v=vMQOg9C2R08
 * Goal Driven
 
 
-
 # Team / time management (positive & negative)
 
 https://youtu.be/CQG4Ui0oAmk 
@@ -249,7 +248,7 @@ Distance Rewrite
 | Situation | A distance.msstate.edu redesign was halted due to the fulltime web developer leaving the position. |
 | Task | After a couple of months where it was clear it may take a while to find a replacement, I was asked if I could carry on the project |
 | Action | As I was doing the fulltime web developer job, I pretended I was my old manager who had pegged me on attention to detail. |
-| Result | Wrecked it and personally deployed the changes to the site in spring of 2013. |
+| Result | Wrecked it and personally deployed the changes to the site in spring of 2013. Stayed for about three years. |
 
 ## Strength / weakness
 
