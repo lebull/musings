@@ -40,12 +40,12 @@ https://youtu.be/ys7fLcH5gpg
 ## 4. Tell me about a time you had to quickly adjust your work priorities to meet changing demands.
 
 
-|       |       |
-| ----- | ----- |
-| Situation | Creating SAPUI5 Apps for CRM  |
-| Task | Implementing the selection process for products.  Near the end of the project, it was decided that the users should be able to select from a tree instead of a flat dropdown. |
-| Action | This was a change in the requirements, so I asked for an extension of the time and was given it. |
-| Result | Got it done.  In the context of waterfall, this would have been frustrating and interruptive.  However, I am used to changing requirements and believe that they should be welcomed so the user can have the best experience we can give them. |
+|       | Short | Long  |
+| ----- |-----  | ----- |
+| Situation | SAPUI5 CRM | Creating SAPUI5 Apps for CRM  |
+| Task | Product Select | Implementing the selection process for products.  Near the end of the project, it was decided that the users should be able to select from a tree instead of a flat dropdown. |
+| Action | Extend Time | This was a change in the requirements, so I asked for an extension of the time and was given it. |
+| Result | Yay for 'Agility' | Got it done.  In the context of waterfall, this would have been frustrating and interruptive.  However, I am used to changing requirements and believe that they should be welcomed so the user can have the best experience we can give them. |
 
 # Team / decision
 
@@ -183,12 +183,13 @@ IP Document Database
 
 LADI
 Automatic Documents
+PrePost
 
 ## 20. Describe a time when you anticipated potential problems and developed preventive measures.
 
 Podcasts:  Potentially confusion UI
 
-Starting at Univar with lack of documentation
+Starting at Univar with lack of documentation (May be a bad time for this one)
 
 ## 21. Describe a situation in which you found a creative way to overcome an obstacle.
 
@@ -250,6 +251,13 @@ Distance Rewrite
 | Task | After a couple of months where it was clear it may take a while to find a replacement, I was asked if I could carry on the project |
 | Action | As I was doing the fulltime web developer job, I pretended I was my old manager who had pegged me on attention to detail. |
 | Result | Wrecked it and personally deployed the changes to the site in spring of 2013. |
+
+|       |       |
+| ----- | ----- |
+| Situation | Poor user experience for pestweb.com.  Boss wasn't interested in fixing them because we were due to scrap the site within 12-18 months. |
+| Task | x |
+| Action | Started up a pipeline of improvements to  |
+| Result | x |
 
 ## Strength / weakness
 
