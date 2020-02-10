@@ -187,6 +187,7 @@ PrePost
 ## 20. Describe a time when you anticipated potential problems and developed preventive measures.
 
 Podcasts:  Potentially confusion UI
+MicroSD Card: 
 
 Starting at Univar with lack of documentation (May be a bad time for this one)
 
