@@ -12,6 +12,11 @@ https://www.youtube.com/watch?v=vMQOg9C2R08
 * Numbers for experience
 * Goal Driven
 
+Here is my story:
+    * 8 Year of web dev experience, 5 after graduation
+    * Distance with 
+    * IP CRM Web Apps with 1k users
+    * PestWeb with 50k users
 
 # Team / time management (positive & negative)
 
@@ -38,9 +43,10 @@ https://youtu.be/ys7fLcH5gpg
 
 ## 4. Tell me about a time you had to quickly adjust your work priorities to meet changing demands.
 
+### Sridevi
 
 |       | Short | Long  |
-| ----- |-----  | ----- |
+| ----- | ----- | ----- |
 | Situation | SAPUI5 CRM | Creating SAPUI5 Apps for CRM  |
 | Task | Product Select | Implementing the selection process for products.  Near the end of the project, it was decided that the users should be able to select from a tree instead of a flat dropdown. |
 | Action | Extend Time | This was a change in the requirements, so I asked for an extension of the time and was given it. |
@@ -52,7 +58,7 @@ https://youtu.be/3NExTeMnobU
 
 ## 5. an example when you had to push back to HQ or challenged a decision
 
-Podcast Page
+### Podcast Page MVC Disagreement
 
 |       |       |
 | ----- | ----- |
@@ -65,7 +71,7 @@ Podcast Page
 
 `I think this is not a good answer`
 
-Moving to Austin
+### Moving to Austin
 
 |       |       |
 | ----- | ----- |
@@ -78,12 +84,12 @@ Moving to Austin
 
 Not using a framework for Distance internal applications
 
-|       |       |
-| ----- | ----- |
-| Situation | x |
-| Task | x |
-| Action | x |
-| Result | x |
+|       |       |       |
+| ----- | ----- | ----- |
+| Situation | At Distance | x |
+| Task | Made internal applications | x |
+| Action | When I doing getting repetative work, I made a library. | x |
+| Result | Should have been frameworks.  Did not end up accessable | x |
 
 ---
 
@@ -101,8 +107,7 @@ Band
 
 ## 9. Tell me about a time you stepped up into a leadership role
 
-distance.msstate.edu
-Build this
+### distance.msstate.edu rebuild
 
 |       |       |
 | ----- | ----- |
@@ -123,7 +128,15 @@ I take pride in productive conflict, and then turning around with a joke 5 secon
 
 ## 11. Describe a situation when you negotiated with others in your organization to reach agreement.
 
-Podcasts MVC Disagreement
+### Podcasts MVC Disagreement
+
+|       |       |
+| ----- | ----- |
+| Situation | Creating the podcasts page for pestweb.com |
+| Task | I implemented the code to determine what podcast link was the one to embed.  On review, my coworker and I had disagreements on whether this should be done in the model or the controller |
+| Action | After approaching my manager to ask about the best way to approach this, we had a team meeting where we could deliberate on what the correct approach is. |
+| Result | An approach that was different than either of us had discussed was suggested.  It satisfied both of our positions of how this should look. |
+
 
 ---
 
@@ -135,16 +148,31 @@ https://youtu.be/ZsxkoZdyEcw
 
 Take a step back and appreciate what they are good at.  Build that up.
 
-Darrell and iOS training
+### Darrell and iOS training
+
+|       |       |       |
+| ----- | ----- | ----- |
+| Situation | Doing iOS training week | x |
+| Task | Had the option of  | x |
+| Action | x | x |
+| Result | Recognized that he kicked butt to learn something new | x |
+
 
 ## 13. We all make mistakes we wish we could take back. Tell me about a time you wish you’d handled a situation differently with a colleague.
 
-Tracey's app demo after my failure
+### Tracey's app demo after my failure
+
+|       | Short | Long  |
+| ----- | ----- | ----- |
+| Situation | Boss tried to demo my app | x |
+| Task | Had to fix some bugs | x |
+| Action | x | x |
+| Result | x | x |
 
 ## 14. The last time you had to apologize to someone
 
 Jon?
-
+Feeling frustrated at unneeded panic mode
 
 ---
 
@@ -154,9 +182,25 @@ https://youtu.be/Zz8iQ852YMs
 
 ## 15. Give me an example of a time you faced a conflict while working on a team. How did you handle that?
 
-Podcasts MVC Disagreement
 
-Gai Music
+### Gai Music
+
+|       | Short | Long  |
+| ----- | ----- | ----- |
+| Situation | Pro Music | x |
+| Task | Making music to project a message, but the lyrics were anti-gay | x |
+| Action | Personal artifacts over change in sound | x |
+| Result | Cleanest Ab's above the staff I've ever played. | x |
+
+### Pestweb MVC disagreement
+
+|       |       |       |
+| ----- | ----- | ----- |
+| Situation | x | Creating the podcasts page for pestweb.com |
+| Task | x | I implemented the code to determine what podcast link was the one to embed.  On review, my coworker and I had disagreements on whether this should be done in the model or the controller |
+| Action | x | After approaching my manager to ask about the best way to approach this, we had a team meeting where we could deliberate on what the correct approach is. |
+| Result | x | An approach that was different than either of us had discussed was suggested.  It satisfied both of our positions of how this should look. |
+
 
 ## 16. Tell me about a time when you received negative feedback from your manager. How did you respond?
 
@@ -226,7 +270,8 @@ Starting at Univar with lack of documentation
 https://youtu.be/774ovkE2y5I
 
 ## 26. What’s the most innovative new idea that you have implemented?
-## Ownership principle https://youtu.be/Rn3EjvukTkI
+
+# Ownership principle https://youtu.be/Rn3EjvukTkI
 
 PrePost
 LADI
@@ -244,13 +289,16 @@ Garage door (not professional)
 ## 28. Provide an example of when you personally demonstrate ownership.
 (I had ownership, but how did I use it)
 
-Distance Rewrite
+### Distance Rewrite
+
 |       |       |
 | ----- | ----- |
 | Situation | A distance.msstate.edu redesign was halted due to the fulltime web developer leaving the position. |
 | Task | After a couple of months where it was clear it may take a while to find a replacement, I was asked if I could carry on the project |
 | Action | As I was doing the fulltime web developer job, I pretended I was my old manager who had pegged me on attention to detail. |
 | Result | Wrecked it and personally deployed the changes to the site in spring of 2013. Stayed for about three years. |
+
+### Pestweb style changes
 
 |       |       |
 | ----- | ----- |
@@ -259,7 +307,7 @@ Distance Rewrite
 | Action | Started up a pipeline of improvements to  |
 | Result | x |
 
-## Strength / weakness
+# Strength / weakness
 
 https://youtu.be/q8fK73QjmbA
 
@@ -294,11 +342,19 @@ https://youtu.be/eaUUeFoB9CQ
 ## 33. Tell me about a time you recovered from a difficult situation
 
 Waerhouser overnighter
-Gai Music
+
+### Gai Music
+
+|       | Short | Long  |
+| ----- | ----- | ----- |
+| Situation | Pro Music | x |
+| Task | Making music to project a message, but the lyrics were anti-gay | x |
+| Action | Personal artifacts over change in sound | x |
+| Result | Cleanest Ab's above the staff I've ever played. | x |
 
 ## 34. Tell me about a time you failed and what you learned from it
 
-Casper (End on a positive note)
+### Casper (End on a positive note)
 
 ---
 

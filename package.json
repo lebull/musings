@@ -1,0 +1,23 @@
+{
+  "name": "musings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gen": "node_modules/.bin/md2pdf interviews/realistic_questions.md ./out/amazon/realistic.pdf",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebull/musings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebull/musings/issues"
+  },
+  "homepage": "https://github.com/lebull/musings#readme",
+  "devDependencies": {
+    "md-to-pdf": "^2.8.2"
+  }
+}
