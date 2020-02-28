@@ -16,6 +16,8 @@
 
     Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 
+    Podcast manager ui is so guud
+
 I've been asked this before.  It gets weird for some, but as a UI person, this is front and center.
 
 ### Thoughts on the topic
