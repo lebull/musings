@@ -363,3 +363,29 @@ Waerhouser overnighter
 https://youtu.be/H_KGM0i9jkA
 
 Customer focused, lots of "butt kicking"
+
+
+-----
+
+# My Turn
+
+## Hiring Manage
+Here is my situation....  Is there any chance I can get an office spot?
+Workload... Periodic or sporiladic?
+Do you switch up your toolbelt?
+Why is this team remote?
+
+
+*Presgestion*
+How large is the team?
+Whete is the team
+What do tou di to develope a team culture with remote employees
+What is the spread of experience
+
+# Teammates
+Workload... Periodic or sporiladic?
+What times are "working hours?
+Do you switch up your toolbelt
+
+
+## Bar Raiser
