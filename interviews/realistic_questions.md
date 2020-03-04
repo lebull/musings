@@ -366,14 +366,12 @@ Garage door (not professional)
 ## 28. Provide an example of when you personally demonstrate ownership.
 (I had ownership, but how did I use it)
 
-### Distance Rewrite
+Distance Rewrite
 
-|       |       |
-| ----- | ----- |
-| Situation | A distance.msstate.edu redesign was halted due to the fulltime web developer leaving the position. |
-| Task | After a couple of months where it was clear it may take a while to find a replacement, I was asked if I could carry on the project |
-| Action | As I was doing the fulltime web developer job, I pretended I was my old manager who had pegged me on attention to detail. |
-| Result | Wrecked it and personally deployed the changes to the site in spring of 2013. Stayed for about three years. |
+* A distance.msstate.edu redesign was halted due to the fulltime web developer leaving the position.
+* After a couple of months where it was clear it may take a while to find a replacement, I was asked if I could carry on the project
+* As I was doing the fulltime web developer job, I pretended I was my old manager who had pegged me on attention to detail.
+* Wrecked it and personally deployed the changes to the site in spring of 2013. Stayed for about three years.
 
 ### Pestweb style changes
 
@@ -392,23 +390,9 @@ https://youtu.be/q8fK73QjmbA
 
 Being able to be on the same team with people who aren't "On the same frequency"
 
-|       |       |       |
-| ----- | ----- | ----- |
-| Situation | x | x |
-| Task | x | x |
-| Action | x | x |
-| Result | x | x |
-
 ## 30. Biggest weakness
 
 Starting work on something I don't know
-
-|       |       |       |
-| ----- | ----- | ----- |
-| Situation | x | x |
-| Task | x | x |
-| Action | x | x |
-| Result | x | x |
 
 ---
 
