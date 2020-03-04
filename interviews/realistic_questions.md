@@ -50,7 +50,11 @@ CPB Sale?
 
 ## 3. Give me an example of a time when you set a goal and were able to meet or achieve it
 
-PrePost, Marathon (ohmygodno)
+Moving over distance content to the cms
+
+Compare with marathon
+  Start easy and ramp up
+  Easy stuff first is ok
 
 ---
 
@@ -190,6 +194,8 @@ Take a step back and appreciate what they are good at.  Build that up.
 | Result | x | x |
 
 ## 14. The last time you had to apologize to someone
+
+Flat out missed a morning meeting Hu
 
 Jon?
 Feeling frustrated at unneeded panic mode
