@@ -13,10 +13,11 @@ https://www.youtube.com/watch?v=vMQOg9C2R08
 * Goal Driven
 
 Here is my story:
-    * 8 Year of web dev experience, 5 after graduation
-    * Distance with 
-    * IP CRM Web Apps with 1k users
-    * PestWeb with 50k users
+
+* 8 Year of web dev experience
+* Distance with 25 degree programs
+* IP CRM Web Apps with ~3k users
+* PestWeb with 50k users
 
 # Team / time management (positive & negative)
 
@@ -24,16 +25,32 @@ https://youtu.be/CQG4Ui0oAmk
 
 ## 1. Tell me about a time when you were not able to meet a time commitment. What prevented you from meeting it? What was the outcome and what did you learn from it?
 
+### Pestweb: Legal Changes
+
+|       |       |       |
+| ----- | ----- | ----- |
+| Situation | Company Transfer | x |
+| Task | Rewrite legal pages | x |
+| Action | Was more complicated expected. | x |
+| Result | Still delivered legally, but not on the intended date. | Learned that even for simple changes, you can expect surprises and oversites.  Also, communication could have helped here. |
+
 Podcasts I think
+
 CPB Sale?
 
 ## 2. Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?
 
-Distance Internal Applications
+### Distance Internal Applications
+|       |       |       |
+| ----- | ----- | ----- |
+| Situation | Distance Rewrite Longterm | x |
+| Task |  Move content of 25 pages over | x |
+| Action | Broke the task up,  | x |
+| Result | x | x |
 
 ## 3. Give me an example of a time when you set a goal and were able to meet or achieve it
 
-PrePost, Marathon
+PrePost, Marathon (ohmygodno)
 
 ---
 
@@ -69,6 +86,8 @@ https://youtu.be/3NExTeMnobU
 
 ## 6. Tell me about the toughest decision you've had to make in the past six months
 
+x
+
 `I think this is not a good answer`
 
 ### Moving to Austin
@@ -82,7 +101,9 @@ https://youtu.be/3NExTeMnobU
 
 ## 7. Tell me about a decision that you regret.
 
-Not using a framework for Distance internal applications
+Starting out in SAP and not in webdev
+
+### Distance Internal Applications: No Frameworks
 
 |       |       |       |
 | ----- | ----- | ----- |
@@ -136,7 +157,6 @@ I take pride in productive conflict, and then turning around with a joke 5 secon
 | Task | I implemented the code to determine what podcast link was the one to embed.  On review, my coworker and I had disagreements on whether this should be done in the model or the controller |
 | Action | After approaching my manager to ask about the best way to approach this, we had a team meeting where we could deliberate on what the correct approach is. |
 | Result | An approach that was different than either of us had discussed was suggested.  It satisfied both of our positions of how this should look. |
-
 
 ---
 
@@ -251,6 +271,15 @@ NYI, Opportunities/Leads user behaviors by session
 
 ## 23. a time when you were 75% through a project, & you had to pivot strategy
 
+### Opportunities: Products Select Tree
+
+|       |       |       |
+| ----- | ----- | ----- |
+| Situation | SAPUI5 | x |
+| Task | Products went from flat to tree | Messed up the flow of creating and editing entities |
+| Action | x | Reduced exposure to already correct parts parts via a dialog.   |
+| Result | x | x |
+
 Probably somewhere in sapui5 applications with products
 Sridevi
 
@@ -261,7 +290,15 @@ Casper (End on a positive note)
 ## 25. Tell me about a time you had to deal with ambiguity
 
 IP Launchpad Application
-Starting at Univar with lack of documentation
+
+### Starting at Univar: No Documentation
+
+|       |       |       |
+| ----- | ----- | ----- |
+| Situation | Starting at Univar | x |
+| Task | Set up dev environment | Had to fit the full stack of production on my computer |
+| Action | Created a master document of my moves | x |
+| Result | When we got sold, firm folks were able to replicate our dev environment too | x |
 
 ---
 
@@ -315,9 +352,23 @@ https://youtu.be/q8fK73QjmbA
 
 Being able to be on the same team with people who aren't "On the same frequency"
 
+|       |       |       |
+| ----- | ----- | ----- |
+| Situation | x | x |
+| Task | x | x |
+| Action | x | x |
+| Result | x | x |
+
 ## 30. Biggest weakness
 
-Starting work
+Starting work on something I don't know
+
+|       |       |       |
+| ----- | ----- | ----- |
+| Situation | x | x |
+| Task | x | x |
+| Action | x | x |
+| Result | x | x |
 
 ---
 
@@ -356,10 +407,16 @@ Waerhouser overnighter
 
 ### Casper (End on a positive note)
 
+|       |       |       |
+| ----- | ----- | ----- |
+| Situation | Created a proof of concept for agile | x |
+| Task | x | x |
+| Action | Spun up project casper | x |
+| Result | Lost manpower due to other tasks taking priority | x |
+
 ---
 
 # 35. Why Amazon
-
 https://youtu.be/H_KGM0i9jkA
 
 Customer focused, lots of "butt kicking"
@@ -367,25 +424,3 @@ Customer focused, lots of "butt kicking"
 
 -----
 
-# My Turn
-
-## Hiring Manage
-Here is my situation....  Is there any chance I can get an office spot?
-Workload... Periodic or sporiladic?
-Do you switch up your toolbelt?
-Why is this team remote?
-
-
-*Presgestion*
-How large is the team?
-Whete is the team
-What do tou di to develope a team culture with remote employees
-What is the spread of experience
-
-# Teammates
-Workload... Periodic or sporiladic?
-What times are "working hours?
-Do you switch up your toolbelt
-
-
-## Bar Raiser
