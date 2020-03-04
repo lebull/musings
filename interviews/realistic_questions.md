@@ -40,13 +40,18 @@ CPB Sale?
 
 ## 2. Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?
 
-### Distance Internal Applications
-|       |       |       |
-| ----- | ----- | ----- |
-| Situation | Distance Rewrite Longterm | x |
-| Task |  Move content of 25 pages over | x |
-| Action | Broke the task up,  | x |
-| Result | x | x |
+Distance Internal Applications
+
+Moving over distance content to the cms
+
+* Distance State
+* Tasked with moving content from 25 degree programs to CMS
+* I Split the task up
+  * Divide the task up and delivered one set of related programs at a time
+  * When starting out, I always started with small, trivial, or fun parts.  This gave me confidence when  got to the monotonous parts
+  * When I felt burnt out, I would research new tools and projects to let my mind settle
+* Was able to move all programs from static sites to the CSM over the span of about a year and a half.
+  * Since we moved our content into a CMS, I heard the next rewrite was able to be automated
 
 ## 3. Give me an example of a time when you set a goal and were able to meet or achieve it
 
@@ -72,14 +77,21 @@ https://youtu.be/ys7fLcH5gpg
 
 ## 4. Tell me about a time you had to quickly adjust your work priorities to meet changing demands.
 
-### Sridevi
+Sridevi
+
+* Creating SAPUI5 Apps for CRM 
+* As part of my application, I was tasked with implementing a selection process for products.
+  * Near the end of the project, it was decided that the users should be able to select from a tree instead of a flat dropdown.
+* Rather than only pushing back on changes, I chose to adopt the "agile mindset"
+  * "Change is going to happen.  Expect it, but also put your self in a position to respond to it"
+* asdf
 
 |       | Short | Long  |
 | ----- | ----- | ----- |
 | Situation | SAPUI5 CRM | Creating SAPUI5 Apps for CRM  |
 | Task | Product Select | Implementing the selection process for products.  Near the end of the project, it was decided that the users should be able to select from a tree instead of a flat dropdown. |
-| Action | Extend Time | This was a change in the requirements, so I asked for an extension of the time and was given it. |
-| Result | Yay for 'Agility' | Got it done.  In the context of waterfall, this would have been frustrating and interruptive.  However, I am used to changing requirements and believe that they should be welcomed so the user can have the best experience we can give them. |
+| Action | Agile mindset | This was a change in the requirements, so I asked for an extension of the time and was given it. |
+| Result | Yay for welcoming change | Got it done.  In the context of waterfall, this would have been frustrating and interruptive.  However, I am used to changing requirements and believe that they should be welcomed so the user can have the best experience we can give them. |
 
 # Team / decision
 
