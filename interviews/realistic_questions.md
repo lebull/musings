@@ -52,9 +52,17 @@ CPB Sale?
 
 Moving over distance content to the cms
 
+* Distance State
+* Tasked with moving content from 25 degree programs to CMS
+* I Split the task up
+  * Divide the task up and delivered one set of related programs at a time
+  * When starting out, I always started with small, trivial, or fun parts.  This gave me confidence when  got to the monotonous parts
+  * When I felt burnt out, I would research new tools and projects to let my mind settle
+* Was able to move all programs from static sites to the CSM over the span of about a year and a half.
+  * Since we moved our content into a CMS, I heard the next rewrite was able to be automated
+
 Compare with marathon
   Start easy and ramp up
-  Easy stuff first is ok
 
 ---
 
