@@ -222,12 +222,10 @@ https://youtu.be/Zz8iQ852YMs
 
 ### Gai Music
 
-|       | Short | Long  |
-| ----- | ----- | ----- |
-| Situation | Pro Music | x |
-| Task | Making music to project a message, but the lyrics were anti-gay | x |
-| Action | Personal artifacts over change in sound | x |
-| Result | Cleanest Ab's above the staff I've ever played. | x |
+* Pro Music
+* Making music to project a message, but the lyrics were anti-gay
+* Personal artifacts over change in sound
+* Cleanest Ab's above the staff I've ever played
 
 Pestweb MVC disagreement
 
