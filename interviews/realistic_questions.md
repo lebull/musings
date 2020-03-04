@@ -166,14 +166,12 @@ I take pride in productive conflict, and then turning around with a joke 5 secon
 
 ## 11. Describe a situation when you negotiated with others in your organization to reach agreement.
 
-### Podcasts MVC Disagreement
+Podcasts MVC Disagreement
 
-|       |       |
-| ----- | ----- |
-| Situation | Creating the podcasts page for pestweb.com |
-| Task | I implemented the code to determine what podcast link was the one to embed.  On review, my coworker and I had disagreements on whether this should be done in the model or the controller |
-| Action | After approaching my manager to ask about the best way to approach this, we had a team meeting where we could deliberate on what the correct approach is. |
-| Result | An approach that was different than either of us had discussed was suggested.  It satisfied both of our positions of how this should look. |
+* Creating the podcasts page for pestweb.com
+* I implemented the code to determine what podcast link was the one to embed.  On review, my coworker and I had disagreements on whether this should be done in the model or the controller
+* After approaching my manager to ask about the best way to approach this, we had a team meeting where we could deliberate on what the correct approach is.
+* An approach that was different than either of us had discussed was suggested.  It satisfied both of our positions of how this should look.
 
 ---
 
@@ -231,14 +229,12 @@ https://youtu.be/Zz8iQ852YMs
 | Action | Personal artifacts over change in sound | x |
 | Result | Cleanest Ab's above the staff I've ever played. | x |
 
-### Pestweb MVC disagreement
+Pestweb MVC disagreement
 
-|       |       |       |
-| ----- | ----- | ----- |
-| Situation | x | Creating the podcasts page for pestweb.com |
-| Task | x | I implemented the code to determine what podcast link was the one to embed.  On review, my coworker and I had disagreements on whether this should be done in the model or the controller |
-| Action | x | After approaching my manager to ask about the best way to approach this, we had a team meeting where we could deliberate on what the correct approach is. |
-| Result | x | An approach that was different than either of us had discussed was suggested.  It satisfied both of our positions of how this should look. |
+* Creating the podcasts page for pestweb.com
+* I implemented the code to determine what podcast link was the one to embed.  On review, my coworker and I had disagreements on whether this should be done in the model or the controller
+* After approaching my manager to ask about the best way to approach this, we had a team meeting where we could deliberate on what the correct approach is.
+* An approach that was different than either of us had discussed was suggested.  It satisfied both of our positions of how this should look.
 
 
 ## 16. Tell me about a time when you received negative feedback from your manager. How did you respond?
