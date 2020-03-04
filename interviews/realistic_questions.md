@@ -356,12 +356,10 @@ Garage door (not professional)
 
 ## 27. Describe a time when you sacrificed short term goals for long term success
 
-|       |       |
-| ----- | ----- |
-| Situation | IP Launchpad App |
-| Task | Recustomize on every update |
-| Action | Decided to automate this process |
-| Result | Went from a custom script to discovering task managers like grunt/gulp.  Snowballed into being able to easilly add other important steps like building and publishing |
+* IP Launchpad App
+* Recustomize on every update
+* Decided to automate this process
+* Went from a custom script to discovering task managers like grunt/gulp.  Snowballed into being able to easilly add other important steps like building and publishing
 
 ## 28. Provide an example of when you personally demonstrate ownership.
 (I had ownership, but how did I use it)
