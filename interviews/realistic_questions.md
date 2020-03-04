@@ -87,42 +87,35 @@ https://youtu.be/3NExTeMnobU
 
 ## 5. an example when you had to push back to HQ or challenged a decision
 
-### Podcast Page MVC Disagreement
+Podcast Page MVC Disagreement
 
-|       |       |
-| ----- | ----- |
-| Situation | Creating the podcasts page for pestweb.com |
-| Task | I implemented the code to determine what podcast link was the one to embed.  On review, my coworker and I had disagreements on whether this should be done in the model or the controller |
-| Action | After approaching my manager to ask about the best way to approach this, we had a team meeting where we could deliberate on what the correct approach is. |
-| Result | An approach that was different than either of us had discussed was suggested.  It satisfied both of our positions of how this should look. |
+* Creating the podcasts page for pestweb.com
+* I implemented the code to determine what podcast link was the one to embed.  
+  * On review, my coworker and I had disagreements on whether this should be done in the model or the controller
+* After approaching my manager to ask about the best way to approach this, we had a team meeting where we could deliberate on what the correct approach is.
+* An approach that was different than either of us had discussed was suggested.  
+  * It satisfied both of our positions of how this should look. 
 
 ## 6. Tell me about the toughest decision you've had to make in the past six months
 
-x
+
+Moving to Austin
+
+* Is moving far away best for me?
+
 
 `I think this is not a good answer`
-
-### Moving to Austin
-
-|       |       |
-| ----- | ----- |
-| Situation | x |
-| Task | x |
-| Action | x |
-| Result | x |
 
 ## 7. Tell me about a decision that you regret.
 
 Starting out in SAP and not in webdev
 
-### Distance Internal Applications: No Frameworks
+ Distance Internal Applications: No Frameworks
 
-|       |       |       |
-| ----- | ----- | ----- |
-| Situation | At Distance | x |
-| Task | Made internal applications | x |
-| Action | When I doing getting repetative work, I made a library. | x |
-| Result | Should have been frameworks.  Did not end up accessable | x |
+* At Distance
+* Made internal applications
+* When I doing getting repetative work, I made a library.
+* Should have been frameworks.  Did not end up accessable.
 
 ---
 
