@@ -348,18 +348,25 @@ https://youtu.be/774ovkE2y5I
 
 ## 26. What’s the most innovative new idea that you have implemented?
 
-# Ownership principle https://youtu.be/Rn3EjvukTkI
-
-PrePost
-LADI
-Garage door (not professional)
-
-## 27. Describe a time when you sacrificed short term goals for long term success
-
 * IP Launchpad App
 * Recustomize on every update
 * Decided to automate this process
 * Went from a custom script to discovering task managers like grunt/gulp.  Snowballed into being able to easilly add other important steps like building and publishing
+
+* Legalneeze Generator
+* LADI
+* Garage door (not professional)
+
+# Ownership principle https://youtu.be/Rn3EjvukTkI
+
+## 27. Describe a time when you sacrificed short term goals for long term success
+
+Ladi
+
+* Extended implementation of an internal app by about a month to impliment a generic solution
+* Taught me the importance of frameworks
+
+* PrePost
 
 ## 28. Provide an example of when you personally demonstrate ownership.
 (I had ownership, but how did I use it)
