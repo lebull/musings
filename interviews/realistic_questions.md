@@ -265,6 +265,13 @@ IP Document Database
 
 ## 19. Tell me about a time when you came up with a new approach to a problem.
 
+IP Launchpad App
+
+* At IP, there was an 'IP Launchpad' iOS Application
+* Every time an update was released I was tasked with recustomizing our app with our branding and enhancements
+* Decided to automate this process
+* Went from a custom script to discovering task managers like grunt/gulp. Snowballed into being able to easilly add other important steps like building and publishing
+
 LADI
 Automatic Documents
 PrePost
@@ -282,13 +289,17 @@ Starting at Univar with lack of documentation
 * To ease my mind, I eventually spun up a markdown document and wrote down every action I took, and in some cases why and how.
 * When I happened to be given a newer laptop with larger capacity, I was able to use that document and set myself up within a couple of hours
 
-Podcasts:  Potentially confusion UI
 MicroSD Card: 
 
 ## 21. Describe a situation in which you found a creative way to overcome an obstacle.
 
 Podcasts:  Potentially confusion UI
 
+* Both the customer facing side and backend side
+* Allow the marketing team to do their job. This is not just linking, but the text, look and feel, and content surrounding
+* Put as much energy in the backend as the front. I set a goal for the marketing team to be able to use the application with zero intervention
+* There were a few hickups when they tried to edit the surroun ding content, but they were able to set it up with no direct instruction from me
+   
 ---
 
 # Strategy / data
@@ -297,7 +308,7 @@ https://youtu.be/oRGKHTiM29E
 
 ## 22. How have you leveraged data to develop a strategy?
 
-NYI, Opportunities/Leads user behaviors by session
+Opportunities/Leads user behaviors by session
 
 ## 23. a time when you were 75% through a project, & you had to pivot strategy
 
@@ -307,7 +318,7 @@ NYI, Opportunities/Leads user behaviors by session
 | ----- | ----- | ----- |
 | Situation | SAPUI5 | x |
 | Task | Products went from flat to tree | Messed up the flow of creating and editing entities |
-| Action | x | Reduced exposure to already correct parts parts via a dialog.   |
+| Action | x | Reduced exposure to already correct parts parts via a dialog. |
 | Result | x | x |
 
 Probably somewhere in sapui5 applications with products
