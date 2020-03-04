@@ -271,10 +271,19 @@ PrePost
 
 ## 20. Describe a time when you anticipated potential problems and developed preventive measures.
 
+Starting at Univar with lack of documentation
+
+* Starting work at Univar
+* Tasked with setting up my work enviornment
+* I noticed that while the setup was mostly automated, it did was not compatible with the most recent laptops
+  * Kept havnig problems
+  * It wasn't clear what exactly the scripts were doing and how to use it
+  * Spent days researching why my access wasn't compatible for what I needed
+* To ease my mind, I eventually spun up a markdown document and wrote down every action I took, and in some cases why and how.
+* When I happened to be given a newer laptop with larger capacity, I was able to use that document and set myself up within a couple of hours
+
 Podcasts:  Potentially confusion UI
 MicroSD Card: 
-
-Starting at Univar with lack of documentation (May be a bad time for this one)
 
 ## 21. Describe a situation in which you found a creative way to overcome an obstacle.
 
