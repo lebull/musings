@@ -232,6 +232,13 @@ https://youtu.be/Zz8iQ852YMs
 
 Bobby knocking me on attention to detail
 
+* Picking up maintainance of the static distance site
+* Worked through a pipeline of changes that were provided to me
+* Stuff kept getting sent back
+* After it happened enough, I started feeling stressed about sending in my work
+* Finally, I intentionally stalled sending it back by a day.
+  * I found this provided an opportunity to look over my changes with a fresh set of eyes after working on something else for a while.
+
 ---
 
 # Problem solving
