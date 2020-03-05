@@ -53,10 +53,6 @@
 
     Leaders expect and require innovation and invention from their teams and always find way to simplify. They are externally aware, look for new ideas everywhere, and are not limited by “not invented here”. As we do new things, we accept that we may be misunderstood for long periods of time.
 
-## Thoughts on the topic
-
-x
-
 ## Example Questions
 
 * Tell me about a time when you gave a simple solution to a complex problem.
@@ -74,10 +70,6 @@ x
 
     Leaders are right a lot. They have strong business judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.
 
-## Thoughts on the topic
-
-x
-
 ## Example Questions
 
 * Tell me about a time when you were wrong.
@@ -85,41 +77,24 @@ x
 
 ## STAR Examples
 
-|       |       |
-| ----- | ----- |
-| Situation | SAPUI5 frontend "Security" |
-| Task | x |
-| Action | x |
-| Result | x |
+* At International Paper, the company acquired Waerhauser's pulp and paper business.
+* I was tasked with building and executing overnight cutover processes to bring new employees into our HR SAP system.  During the cutover, everything failed and teammates started becoming stressed out
+* I was on the front lines of troubleshooting and correcting this issue
+  * Analyzing the situation, I knew the one differece between this and our tests was the fact that the machine was locked away from the outside world.
+  * I had no reservation against undoing this, as I knew our processes could work even in every day traffic.
+  * I was confident that the way forward was to unlock this system and restart our process.
+  * When tempers and stress started to build, I made a point to verbally state what our path forward is
+* After a few hours of troubleshooting, we got word from project management that we were allowed to unlock the system.
+  * The process completed successfully and we imported about 3000 new employees by the morning.
 
-|       |       |
-| ----- | ----- |
-| Situation | Waerhauser acquisition almost-mishap |
-| Task | x |
-| Action | x |
-| Result | x |
+Univar: SD Card Impending Doom
 
-|       |       |
-| ----- | ----- |
-| Situation | Document Database |
-| Task | x |
-| Action | x |
-| Result | x |
+Waerhauser acquisition almost-mishap
 
-|       |       |
-| ----- | ----- |
-| Situation | Lack of KISS for podcasts |
-| Task | x |
-| Action | x |
-| Result | x |
 
 # 5. Learn and Be Curious
 
     Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
-
-## Thoughts on the topic
-
-x
 
 ## Example Qustions
 
@@ -133,10 +108,6 @@ Casper
 ## 6. Hire and Develop the Best
 
     Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization. Leaders develop leaders and take seriously their role in coaching others. We work on behalf of our people in invent mechanisms for development like Career Choice.
-
-## Thoughts on the topic
-
-Big on develop.  Especially when so many FEDs don't know es6
 
 ## Example Qustions
 
@@ -156,10 +127,6 @@ Big on develop.  Especially when so many FEDs don't know es6
 
     Leaders have relentlessly high standards – many people may think these standards are unreasonably high. Leaders are continually raising the bar and driving their teams to deliver high quality products, services and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
 
-## Thoughts on the topic
-
-This is crucial in frontend development.  Falling short of standards directly impacts users. This is especially if the app is external.  However, even internal applications 
-
 ## Example Qustions
 
 * Tell me about a time when you couldn’t meet your own expectations on a project.
@@ -175,10 +142,6 @@ Refusal for "This is the way we always do it" that I told Charley
 # 8. Think Big
 
     Think Big Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
-
-## Thoughts on the topic
-
-x
 
 ## Example Questions
 
@@ -199,10 +162,6 @@ Accidentally Attempting to rewrite a php framework
 # 9. Bias for Action
 
     Bias for Action Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
-
-## Thoughts on the topic
-
-x
 
 ## Example Questions
 
@@ -227,17 +186,9 @@ This is super important in UI things
 
 * Tell me about a time when you had to work with limited time or resources.
 
-## STAR Examples
-
-x
-
 # 11. Earn Trust
 
     Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best.
-
-## Thoughts on the topic
-
-x
 
 ## Example Qustions
 
@@ -252,10 +203,6 @@ x
 
     Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
 
-## Thoughts on the topic
-
-x
-
 ## Example Qustions
 
 * Give me two examples of when you did more than what was required in any job experience.
@@ -263,17 +210,23 @@ x
 
 ## STAR Examples
 
-[IP Launchpad App](#ip-launchpad-app)
+## IP Launchpad App: Dive Deep
+
+* IP had a hybrid iOS web application that was provided by SAP, but we still had to enhance and customize the application
+* I became the "app guy" and was tasked for building, signing, and releasing app for every update
+  * Especially odd because I am an android user
+* The process of customizing the application was partially laid out by SAP, but we had our own changes outside of that
+* The process of building and signing the app was mostly standard, so youtube was my best friend
+* To wrap everything together, I documented the procedures along with the project.
+  * This solidified my comfort with the process, and also gave future devs a stronger starting point
+  * This also allowed for automation, so we were eventually able to deliver updated version of the app in a matter of days instead of weeks
+  
 Casper
 LADI
 
 # 13. Have Backbone; Disagree and Commit
 
     Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
-
-## Thoughts on the topic
-
-This is a trait of a good musician
 
 ## Example Qustions
 
@@ -319,16 +272,7 @@ x
 | Action | Owned it |
 | Result | Wrecked it and personally deployed the changes to the site in spring of 2013. |
 
-## IP Launchpad App: Dive Deep
 
-* IP had a hybrid iOS web application that was provided by SAP, but we still had to enhance and customize the application
-* I became the "app guy" and was tasked for building, signing, and releasing app for every update
-  * Especially odd because I am an android user
-* The process of customizing the application was partially laid out by SAP, but we had our own changes outside of that
-* The process of building and signing the app was mostly standard, so youtube was my best friend
-* To wrap everything together, I documented the procedures along with the project.
-  * This solidified my comfort with the process, and also gave future devs a stronger starting point
-  * This also allowed for automation, so we were eventually able to deliver updated version of the app in a matter of days instead of weeks
   
 ## IP Launchpad App: Invint and Simplify
 TODO
@@ -340,10 +284,6 @@ TODO
 * To wrap everything together, I documented the procedures along with the project.
   * This solidified my comfort with the process, and also gave future devs a stronger starting point
   * This also allowed for automation, so we were eventually able to deliver updated version of the app in a matter of days instead of weeks
-
-## We are doing scrum now
-
-Casper's "We are doing Scrum now"
 
 ## Gai Church Music
 
