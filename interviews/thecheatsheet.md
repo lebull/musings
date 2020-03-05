@@ -48,8 +48,6 @@
 
 ## 10. Frugality (unlikely)
 
-> * Tell me about a time when you had to work with limited time or resources.
-
 * Using viral libraries for PrePost
 
 ## 11. Earn Trust
