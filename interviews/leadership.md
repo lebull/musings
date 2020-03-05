@@ -20,6 +20,10 @@
   * I made sure to provide messages when there may have been ambiguity about the behavior of the application
 * When I handed it off for the internal user to upload our first podcast, I watched while avoided giving any instructions.
   * While there were a couple of cases where the user had to dig around to find what they wanted to do, they were able to do their job with zero interaction from me.
+ 
+## Fiori CRM Apps: Excell Guy
+
+x
 
 [Fix Pestweb's UI](#fix-pestweb's-ui)
 
@@ -33,9 +37,7 @@
 * Tell me about a time when you had to leave a task unfinished.
 * Tell me about a time when you had to work on a project with unclear responsibilities.
 
-## STAR Examples
-
-Distance Redesign
+## Distance Redesign
 
 * At Distance at State, the fulltime web developer left the division just after starting a project to redesign our student facing website
 * After it was clear that it would take a while to find a replacement, I was asked to continue the project.
