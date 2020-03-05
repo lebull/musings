@@ -4,8 +4,6 @@
 
 # Team / time management (positive & negative)
 
-https://youtu.be/CQG4Ui0oAmk 
-
 ## 1. Tell me about a time when you were not able to meet a time commitment. What prevented you from meeting it? What was the outcome and what did you learn from it?
 
 ## 2. Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?
