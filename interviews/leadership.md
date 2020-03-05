@@ -40,9 +40,9 @@ Distance Redesign
 * At Distance at State, the fulltime web developer left the division just after starting a project to redesign our student facing website
 * After it was clear that it would take a while to find a replacement, I was asked to continue the project.
 * So, I did it
-    * I placed all of the content into a CMS from scratch
-    * I used some of the styling changes that had already been used, but heavilly adjusted it based on feedback 
-    * I used my own judgement to design dozens of new pages, and I constantly asked for feedback from my manager, the director, and othres in the devision
+  * I placed all of the content into a CMS from scratch
+  * I used some of the styling changes that had already been used, but heavilly adjusted it based on feedback 
+  * I used my own judgement to design dozens of new pages, and I constantly asked for feedback from my manager, the director, and othres in the devision
 * Even thoug I was a student worker, I was able to not only finish the base reimplementation, but deploy it before we hired the new fulltime developer.
   * This project was the first impression of hundreds of daily users for about 3 years before the next reimplementation
 
