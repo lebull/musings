@@ -2,10 +2,6 @@
 
     Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 
-## Thoughts on the topic
-
-I've been asked this before.  It gets weird for some, but as a UI person, this is front and center.
-
 ## Example Qustions
 
 * Who was your most difficult customer?
@@ -13,9 +9,17 @@ I've been asked this before.  It gets weird for some, but as a UI person, this i
 * When you’re working with a large number of customers, it’s tricky to deliver excellent service to them all. How do you go about prioritizing your customers’ needs?
 * Tell the story of the last time you had to apologize to someone.
 
-## STAR Examples
+# Podcast manager ui
 
-[Podcast Manager UI](#podcast-manager-ui)
+* At univar, I developed the process to embed and link to podcasts and display them on our customer facing site.
+  * The internal users are business oriented and not technical. 
+* I knew that creating a minimal user interface for the internal side would cause frustration and delay
+* I put just as much energy and focus into makeing the internal application a good user experience as the backend side
+  * I created a preview of the podcast to show how changes would effect the site
+  * Even though we didn't use material ui, I followed the guidelines as closely as possible
+  * I made sure to provide messages when there may have been ambiguity about the behavior of the application
+* When I handed it off for the internal user to upload our first podcast, I watched while avoided giving any instructions.
+  * While there were a couple of cases where the user had to dig around to find what they wanted to do, they were able to do their job with zero interaction from me.
 
 [Fix Pestweb's UI](#fix-pestweb's-ui)
 
@@ -354,14 +358,7 @@ Casper's "We are doing Scrum now"
 | Action | Started up a pipeline of improvements to  |
 | Result | x |
 
-# Podcast manager ui
 
-|       |       |       |
-| ----- | ----- | ----- |
-| Situation | Making podcasts | Both the customer facing side and backend side |
-| Task | Make backend good. | Allow the marketing team to do their job.  This is not just linking, but the text, look and feel, and content surrounding | 
-| Action | x | Put as much energy in the backend as the front.  I set a goal for the marketing team to be able to use the application with zero intervention |
-| Result | x | There were a few hickups when they tried to edit the surroun ding content, but they were able to set it up with no direct instruction from me |
 
 # Fix Pestweb's UI
 
