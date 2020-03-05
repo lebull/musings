@@ -310,14 +310,27 @@ x
 | Action | Owned it |
 | Result | Wrecked it and personally deployed the changes to the site in spring of 2013. |
 
-## IP Launchpad App
+## IP Launchpad App: Dive Deep
 
-|       |       |
-| ----- | ----- |
-| Situation | IP Launchpad App |
-| Task | Recustomize on every update |
-| Action | Decided to automate t   his process |
-| Result | Went from a custom script to discovering task managers like grunt/gulp.  Snowballed into being able to easilly add other important steps like building and publishing |
+* IP had a hybrid iOS web application that was provided by SAP, but we still had to enhance and customize the application
+* I became the "app guy" and was tasked for building, signing, and releasing app for every update
+  * Especially odd because I am an android user
+* The process of customizing the application was partially laid out by SAP, but we had our own changes outside of that
+* The process of building and signing the app was mostly standard, so youtube was my best friend
+* To wrap everything together, I documented the procedures along with the project.
+  * This solidified my comfort with the process, and also gave future devs a stronger starting point
+  * This also allowed for automation, so we were eventually able to deliver updated version of the app in a matter of days instead of weeks
+  
+## IP Launchpad App: Invint and Simplify
+TODO
+* IP had a hybrid iOS web application that was provided by SAP, but we still had to enhance and customize the application
+* I became the "app guy" and was tasked for building, signing, and releasing app for every update
+  * Especially odd because I am an android user
+* The process of customizing the application was partially laid out by SAP, but we had our own changes outside of that
+* The process of building and signing the app was mostly standard, so youtube was my best friend
+* To wrap everything together, I documented the procedures along with the project.
+  * This solidified my comfort with the process, and also gave future devs a stronger starting point
+  * This also allowed for automation, so we were eventually able to deliver updated version of the app in a matter of days instead of weeks
 
 ## We are doing scrum now
 
