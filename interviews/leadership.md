@@ -46,6 +46,8 @@ Distance Redesign
 * Even thoug I was a student worker, I was able to not only finish the base reimplementation, but deploy it before we hired the new fulltime developer.
   * This project was the first impression of hundreds of daily users for about 3 years before the next reimplementation
 
+Others
+
 * Fiori Launchpad App
 * Distance internal apps (taken over from a class project)
 * Phone work at Univar
