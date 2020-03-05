@@ -9,7 +9,7 @@
 * When you’re working with a large number of customers, it’s tricky to deliver excellent service to them all. How do you go about prioritizing your customers’ needs?
 * Tell the story of the last time you had to apologize to someone.
 
-## Podcast Manager Ui
+## Podcast Manager UI
 
 * At Univar, I developed the process to embed and link to podcasts and display them on our customer facing site.
   * The internal users are business oriented and not technical. 
@@ -248,19 +248,25 @@ LADI
 
     Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 
-## Thoughts on the topic
-
-x
-
 ## Example Qustions
 
 * By providing an example, tell me when you have had to handle a variety of assignments. Describe the results.
 * What is the most difficult situation you have ever faced in your life? How did you handle it?
 * Give me an example of a time when you were 75% of the way through a project, and you had to pivot strategy–how were you able to make that into a success story?
 
-## STAR Examples
+## Distance Redesign: Long Haul
 
-[Distance Redesign](#distance-redesign)
+TODO 
+
+* At Distance at State, the fulltime web developer left the division just after starting a project to redesign our student facing website
+* After it was clear that it would take a while to find a replacement, I was asked to continue the project.
+* So, I did it
+  * I placed all of the content into a CMS from scratch
+  * I used some of the styling changes that had already been used, but heavilly adjusted it based on feedback 
+  * I used my own judgement to design dozens of new pages, and I constantly asked for feedback from my manager, the director, and othres in the devision
+* Even thoug I was a student worker, I was able to not only finish the base reimplementation, but deploy it before we hired the new fulltime developer.
+  * This project was the first impression of hundreds of daily users for about 3 years before the next reimplementation
+
 
 -----
 
