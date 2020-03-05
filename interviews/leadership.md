@@ -57,7 +57,7 @@ x
 
 * Document Database
 * Generated technical specifications from docblocks in SAPUI apps
-* Fiori Launchpad Build Automation
+* Fiori Launchpad: gBuild Automation
 * LADI?
 * PrePost model for SAPUI5
 
@@ -275,7 +275,7 @@ This is a trait of a good musician
 
 ## STAR Examples
 
-[Gai Church Music](#gai-church-music)
+Podcast MVC Conflict
 
 
 # 14. Deliver Result
@@ -316,7 +316,7 @@ x
 | ----- | ----- |
 | Situation | IP Launchpad App |
 | Task | Recustomize on every update |
-| Action | Decided to automate this process |
+| Action | Decided to automate t   his process |
 | Result | Went from a custom script to discovering task managers like grunt/gulp.  Snowballed into being able to easilly add other important steps like building and publishing |
 
 ## We are doing scrum now
