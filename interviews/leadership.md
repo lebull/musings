@@ -184,10 +184,6 @@ Accidentally Attempting to rewrite a php framework
 
     Frugality Accomplish more with less. Constraints breed resourcefulness, self-sufficiency and invention. There are no extra points for growing headcount, budget size or fixed expense.
 
-## Thoughts on the topic
-
-This is super important in UI things
-
 ## Example Questions
 
 * Tell me about a time when you had to work with limited time or resources.
@@ -214,8 +210,6 @@ x
 * Give me two examples of when you did more than what was required in any job experience.
 * Tell me about something that you learnt recently in your role.
 
-## STAR Examples
-
 ## IP Launchpad App: Dive Deep
 
 * IP had a hybrid iOS web application that was provided by SAP, but we still had to enhance and customize the application
@@ -241,10 +235,14 @@ LADI
 * Tell me about a time when you had to step up and disagree with a team members approach.
 * If your direct manager was instructing you to do something you disagreed with, how would you handle it?
 
-## STAR Examples
+## Podcast MVC Conflict
 
-Podcast MVC Conflict
-
+* At Univar, our Marketing department wanted to create podcasts and display them on our website
+* I was tasked with creating both the customer facing page and a backend application to create and manage these podcasts
+* Upon code review, my coworker commented that the code to determine the main embedded link among a list of links should have been done in the controller.
+    * My experience with MVC frameworks has taught me that data formatting should be done in the model and not the controller
+* When it was clear that we were at an impass, I called for a team meeting to determine what the team's preference is in this situation.
+* The team agreed that this should be done in the model, but there was also a better method of doing it in the model that avoided unneccesarry database calls I was making.  This made me incredibly happy 
 
 # 14. Deliver Result
 
