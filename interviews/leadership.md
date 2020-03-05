@@ -35,7 +35,8 @@
 
 ## STAR Examples
 
-* Distance site
+Distance Redesign
+
 * At Distance at State, the fulltime web developer left the division just after starting a project to redesign our student facing website
 * After it was clear that it would take a while to find a replacement, I was asked to continue the project.
 * So, I did it
