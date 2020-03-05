@@ -106,6 +106,7 @@ Waerhauser acquisition almost-mishap
 
 ## STAR Examples
 
+CGBS
 Casper
 
 ## 6. Hire and Develop the Best
