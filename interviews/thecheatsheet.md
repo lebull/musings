@@ -23,6 +23,7 @@
 
 ## 5. Learn and Be Curious
 
+* Excell guy
 * CGBF: Led to my first real MVC experience
 * Casper
 
