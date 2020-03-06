@@ -64,7 +64,6 @@
 
 * Fiori Launchpad App
 * Distance internal apps (taken over from a class project)
-* Phone work at Univar
 
 # 3. Invent and Simplify
 
@@ -118,7 +117,7 @@
 ## Others
 
 * Univar: SD Card Impending Doom
-* Waerhauser acquisition almost-mishap
+* Document Database
 
 # 5. Learn and Be Curious
 
@@ -141,6 +140,7 @@
 ## Other Answers
 
 * CGBS
+* Casper
 
 # 6. Hire and Develop the Best
 
@@ -154,6 +154,7 @@
 ## STAR Examples
 
 Taught Javascript at IP
+Hired my replacement at Distance
 
 # 7. Insist on the Highest Standards
 
@@ -202,7 +203,7 @@ Taught Javascript at IP
 
 ## Others
 
-* Casper
+* Casper (first)
 * Accidentally Attempting to write a php framework
 
 # 9. Bias for Action
@@ -217,8 +218,8 @@ Taught Javascript at IP
 
 ## STAR Examples
 
-We are doing scrum now
-Pestweb UI
+* Casper: We are doing scrum now
+* Make Pestweb UI Not Suck
 
 # 10. Frugality (unlikely)
 
@@ -227,6 +228,10 @@ Pestweb UI
 ## Example Questions
 
 * Tell me about a time when you had to work with limited time or resources.
+
+## STAR Examples
+
+* Using viral libraries for PrePost
 
 # 11. Earn Trust
 
@@ -239,7 +244,8 @@ Pestweb UI
 
 ## STAR Examples
 
-  When things got tense with Jon, I gripped about the loud door
+* Univar: I am not being listened to
+* When things got tense with Jon, I gripped about the loud door
 
 # 12. Dive Deep
 
@@ -297,13 +303,11 @@ LADI
 
 ## Distance Redesign: Long Haul
 
-TODO 
+* Tasked with moving content from 25 degree programs to CMS
+* I Split the task up
+  * Divide the task up and delivered one set of related programs at a time
+  * When starting out, I always started with small, trivial, or fun parts.  This gave me confidence when  got to the monotonous parts
+  * When I felt burnt out, I would research new tools and projects to let my mind settle
+* Was able to move all programs from static sites to the CSM over the span of about a year and a half.
+  * Since we moved our content into a CMS, I heard the next rewrite was able to be automated
 
-* At Distance at State, the fulltime web developer left the division just after starting a project to redesign our student facing website
-* After it was clear that it would take a while to find a replacement, I was asked to continue the project.
-* So, I did it
-  * I placed all of the content into a CMS from scratch
-  * I used some of the styling changes that had already been used, but heavilly adjusted it based on feedback 
-  * I used my own judgement to design dozens of new pages, and I constantly asked for feedback from my manager, the director, and othres in the devision
-* Even thoug I was a student worker, I was able to not only finish the base reimplementation, but deploy it before we hired the new fulltime developer.
-  * This project was the first impression of hundreds of daily users for about 3 years before the next reimplementation

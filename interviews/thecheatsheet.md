@@ -1,25 +1,25 @@
 ## 1. Customer Obsession
 
 * Podcast Manager UI: Focus on the backend too
-* Pestweb UI: Fix a dying site
+* Fiori Excell Guy
 
 ## 2. Ownership
 
 * Distance site: Temporary Fulltime Dev
+* Make PestWeb not suck
 * IP Launchpad: I've never done this
-* Distance internal apps: Taken over from another's class project
 
 ## 3. Invent and Simplify
 
-* PrePost model for SAPUI5
+* Fiori Launchpad App: Build Automation
 * Generated technical specifications from docblocks in SAPUI apps
-* IP Launchpad: Build Automation
+* PrePost model for SAPUI5
 
 ## 4. Are Right, a Lot
 
 * Waerhauser acquisition almost-mishap
+* Univar: SD Card Impending Doom
 * Document Database
-* SAPUI5 frontend "Security"
 
 ## 5. Learn and Be Curious
 
@@ -34,18 +34,20 @@
 
 ## 7. Insist on the Highest Standards
 
-* Pestweb UI: Fix a dying site
+* Make PestWeb not suck (even though it's dying)
 * Refusal for "This is the way we always do it" that I told Charley
-* Check Logs: Rewrite all 
+* Adhearence to Fiori UX Guidelines
 
 ## 8. Think Big
 
 * IP's Processes suck: Casper
+* Distance Redesign
 * LADI: Accidentally Attempting to rewrite a php framework
 
 ## 9. Bias for Action
 
 * Casper: We are doing scrum now
+* Make Pestweb UI Not Suck
 
 ## 10. Frugality (unlikely)
 
@@ -54,6 +56,7 @@
 ## 11. Earn Trust
 
 * Univar: I am not being listened to
+* When things got tense with Jon, I gripped about the loud door
 
 ## 12. Dive Deep
 
@@ -62,8 +65,7 @@
 ## 13. Have Backbone; Disagree and Commit
 
 * Podcast MVC Conflict
-* ~~Gai Music~~
 
 ## 14. Deliver Result
 
-* Distance site: Temporary Fulltime Dev
+* Distance Redesign: Long Haul
