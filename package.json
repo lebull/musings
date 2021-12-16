@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/lebull/musings#readme",
   "devDependencies": {
-    "md-to-pdf": "^2.8.2"
+    "md-to-pdf": "^5.0.0"
   }
 }
